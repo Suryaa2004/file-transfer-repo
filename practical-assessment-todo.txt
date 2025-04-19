@@ -1,0 +1,27 @@
+labs todo for practical assessment:
+
+1.Creating a model using Linear Regression
+2.Creating a model with Logistic Regression
+
+BASIC PYTHON:
+3.Python script to read, clean, and print a CSV file (e.g., telecom usage data)
+4.Write a program to clean and validate user data stored in JSON format, Parse telecom logs to 
+extract call durations.
+5.Analyze call data to identify the top 10 most frequent callers.
+6.Python script to fetch and process data from a public AP
+
+
+DATA ENGINEERING:
+7.Build and schedule a basic ETL pipeline that reads data from a file and writes to a database
+8.Build an ETL pipeline that extracts data from CSV, transforms it (e.g., cleaning data), and loads it into 
+a MySQL database
+9.Use Python and Pandas to clean and transform a messy dataset, Perform data transformations (e.g., 
+filtering, joining) using PySpark for larger datasets.
+10.Design a normalized database schema in MySQL or PostgreSQL for an application (products, orders, 
+customers).
+11.Set up a NoSQL database (MongoDB) and design a flexible schema for a product catalog
+
+
+GENAI:
+
+12.go through all the exercise we have done in training
